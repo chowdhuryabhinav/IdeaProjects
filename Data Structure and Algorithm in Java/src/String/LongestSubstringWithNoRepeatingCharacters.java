@@ -3,6 +3,7 @@ package String;
 import java.util.HashMap;
 import java.util.Map;
 
+//Maximum Sliding Window Problem
 public class LongestSubstringWithNoRepeatingCharacters {
 
     public static int longestSubstringLengthWithNoRepeatedCharacters(String str) {
