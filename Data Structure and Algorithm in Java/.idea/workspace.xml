@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efaff6c8-86d3-47be-bf70-99a63f4dfd95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structure and Algorithm in Java/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure and Algorithm in Java/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structure and Algorithm in Java/String/LongestSubstringWithNoRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure and Algorithm in Java/String/LongestSubstringWithNoRepeatingCharacters.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +31,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/spring-security-demo/spring-security-demo/pom.xml" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringWithNoRepeatingCharacters">
-    <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedLists.LinkedListApp" />
+  <component name="RunManager" selected="Application.GenericFunctionalInterface">
+    <configuration name="BestTimeToSellBuyStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.BestTimeToSellBuyStock" />
       <module name="Data Structure and Algorithm in Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedLists.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.DiamondPattern" />
+      <module name="Data Structure and Algorithm in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Features.GenericFunctionalInterface" />
+      <module name="Data Structure and Algorithm in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,10 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Recursion.Subsequences" />
+      <module name="Data Structure and Algorithm in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericFunctionalInterface" />
+        <item itemvalue="Application.DiamondPattern" />
+        <item itemvalue="Application.Subsequences" />
+        <item itemvalue="Application.BestTimeToSellBuyStock" />
         <item itemvalue="Application.LongestSubstringWithNoRepeatingCharacters" />
-        <item itemvalue="Application.LinkedListApp" />
       </list>
     </recent_temporary>
   </component>
@@ -77,36 +121,175 @@
       <option name="presentableId" value="Default" />
       <updated>1652675298021</updated>
     </task>
+    <task id="LOCAL-00001" summary="One String problem. One Linked List problem.">
+      <created>1654184518172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654184518173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="One String problem. One Linked List problem." />
+    <option name="LAST_COMMIT_MESSAGE" value="One String problem. One Linked List problem." />
   </component>
   <component name="WindowStateProjectService">
     <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1652675572818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1652675572818" />
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1654184441742">
+    <state x="318" y="2" key="CommitChangelistDialog2" timestamp="1654184516679">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654184441742" />
-    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1654184441741">
+    <state x="318" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1654184516679" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1657356686269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654184441741" />
-    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1654184441741">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1657356686269" />
+    <state width="1493" height="125" key="GridCell.Tab.0.bottom" timestamp="1657554680217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654184441741" />
-    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1654184441742">
+    <state width="1493" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1657554680217" />
+    <state width="1493" height="125" key="GridCell.Tab.0.center" timestamp="1657554680217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654184441742" />
+    <state width="1493" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1657554680217" />
+    <state width="1493" height="125" key="GridCell.Tab.0.left" timestamp="1657554680217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1657554680217" />
+    <state width="1493" height="125" key="GridCell.Tab.0.right" timestamp="1657554680217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1657554680217" />
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom" timestamp="1657354984703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1657354984703" />
+    <state width="1493" height="166" key="GridCell.Tab.1.center" timestamp="1657354984703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1657354984703" />
+    <state width="1493" height="166" key="GridCell.Tab.1.left" timestamp="1657354984703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1657354984703" />
+    <state width="1493" height="166" key="GridCell.Tab.1.right" timestamp="1657354984703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1657354984703" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1652716953331">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1652716953331" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1654181257850">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1654184543451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1654181257850" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1654184543451" />
+    <state x="786" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1658583711030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="786" y="378" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1658583711030" />
+    <state x="448" y="10" width="639" height="804" key="find.popup" timestamp="1656848855621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="10" width="639" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1656848855621" />
+    <state x="465" y="204" key="git4idea.merge.GitPullDialog" timestamp="1655615514560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1655615514560" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Patterns/DiamondPattern.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
